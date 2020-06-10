@@ -1,1 +1,1 @@
-# Codechef-automation
+Automating codechef submission using selenium
